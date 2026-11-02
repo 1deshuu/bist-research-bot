@@ -1,0 +1,22 @@
+# Python byte code
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Streamlit secrets & local credentials
+.streamlit/secrets.toml
+
+# Environment variables
+.env
+.env.*
+!.env.example
+
+# Log files
+*.log
+
+# OS & IDE
+.DS_Store
+Thumbs.db
+desktop.ini
+.vscode/
+.idea/
